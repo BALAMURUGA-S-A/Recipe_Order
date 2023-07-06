@@ -1,0 +1,40 @@
+.form {
+    text-align: right;
+  }
+  
+  .finalbutton {
+    font: inherit;
+    cursor: pointer;
+    border: 1px solid #8a2b06;
+    color: #641e03;
+    padding: 0.25rem 2rem;
+    border-radius: 20px;
+    font-weight: bold;
+    width: 12em;
+  }
+  
+  
+  .finalbutton:hover {
+    background-color: #641e03;
+    border-color: #641e03;
+    color: white;
+  }
+  
+  .finalbutton:active {
+    background-color: #641e03;
+    border-color: #641e03;
+  }
+  
+  .form-button {
+    display: flex;
+  }
+  
+  .addbutton {
+    width: 1.5em;
+    height: 1.5em;
+    color: #641e03;
+    border-radius: 50%;
+    border: 1px solid #641e03;
+    margin-left: 0.3em;
+  }
+  

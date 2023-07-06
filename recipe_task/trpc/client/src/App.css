@@ -1,0 +1,8 @@
+table,
+th,
+td {
+    border-collapse: collapse;
+    border: .1em solid rgb(1, 1, 1);
+    transform: scale(1);
+    padding: .4em;
+}

@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@prisma/client": "^4.16.1",
+    "nodemon": "^2.0.22",
+    "prisma": "^4.16.1",
+    "ts-node": "^10.9.1"
+  }
+}
